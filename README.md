@@ -34,19 +34,19 @@ Der Spieler muss dann die richtige Zahl erraten – mit Hinweisen, ob seine Eing
 2. Lade das Skript herunter oder kopiere den Code in eine Datei, z. B.:
 
    ```bash
-   guessing_game.py
+   index.py
    ```
 
 3. Starte das Spiel mit:
 
    ```bash
-   python guessing_game.py
+   index.py
    ```
 
    oder
 
    ```bash
-   python3 guessing_game.py
+   index.py
    ```
 
 ---
