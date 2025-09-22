@@ -40,13 +40,7 @@ Der Spieler muss dann die richtige Zahl erraten – mit Hinweisen, ob seine Eing
 3. Starte das Spiel mit:
 
    ```bash
-   index.py
-   ```
-
-   oder
-
-   ```bash
-   index.py
+   py index.py
    ```
 
 ---
