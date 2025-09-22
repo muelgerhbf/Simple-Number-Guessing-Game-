@@ -25,7 +25,7 @@ Der Spieler muss dann die richtige Zahl erraten – mit Hinweisen, ob seine Eing
    python --version
    
 oder
-
+    ```bash
     python3 --version      
 
 2. Lade das Skript herunter oder kopiere den Code in eine Datei, z. B.
