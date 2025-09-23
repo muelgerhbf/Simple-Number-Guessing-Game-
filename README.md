@@ -31,10 +31,10 @@ Der Spieler muss dann die richtige Zahl erraten – mit Hinweisen, ob seine Eing
    python3 --version
    ```
 
-2. Lade das Skript herunter oder kopiere den Code in eine Datei, z. B.:
+2. Lade das Skript herunter oder clone die Repository, z. B.:
 
    ```bash
-   index.py
+   git clone <Link von meiner Repository>
    ```
 
 3. Starte das Spiel mit:
